@@ -10,5 +10,5 @@ Required Documents:
 
 Please add your actual NABL certificates and scope documents here.
 
-Contact: misbhiwadi@gmail.com
+Contact: sales@ncrindustrialsolution.in
 Phone: +91 9636 055399
