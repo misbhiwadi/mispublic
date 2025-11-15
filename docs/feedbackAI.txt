@@ -5,7 +5,7 @@ Working Directory: /Users/ashok.sharma/Documents/WorkingCopy/MIS/pages/
 Recent Fix Applied: Fixed malformed MS Fabrication dropdown HTML structure across website
 
 Issue Resolved: The MS Fabrication dropdown menu had malformed HTML structure:
-"Door <li><a href="ms_fabrication.html">MS Fabrication</a></li> Window"
+"Door <li><a href="ms-fabrication-bhiwadi.html">MS Fabrication</a></li> Window"
 
 Solution Applied: Corrected to proper HTML structure:
 "Door &amp; Window"
