@@ -1,4 +1,4 @@
-# Aluminium Gates & Doors Product Catalogue
+# Aluminium Doors & Gates  Product Catalogue
 
 ## Overview
 This is a modern, SEO-optimized product catalogue for aluminium gates and doors with the following features:
@@ -16,21 +16,21 @@ This is a modern, SEO-optimized product catalogue for aluminium gates and doors 
 - **Professional Features**: Loading animations, hover effects, and smooth scrolling
 
 ### Products Included
-1. Aluminium Gates & Doors with ACP Sheet
-2. Aluminium Gates & Doors with MS / SS Mesh
-3. Aluminium Sliding Gates & Doors
-4. Aluminium Folding Gates & Doors
-5. Aluminium Motorized Gates & Doors
-6. Aluminium Single Gates & Doors
-7. Aluminium Double Gates & Doors
-8. Aluminium Hinged Gates & Doors (Top Hung / Side Hung)
-9. Aluminium Gates & Doors with Glass
-10. Aluminium Gates & Doors with Grill
-11. Aluminium Gates & Doors with Mesh
-12. Aluminium Top-Hung Sliding Gates & Doors
-13. Aluminium Multi-Fold Gates & Doors
-14. Aluminium Bathroom Gates & Doors
-15. Aluminium Bathroom Gates & Doors with Frosted Glass
+1. Aluminium Doors & Gates  with ACP Sheet
+2. Aluminium Doors & Gates  with MS / SS Mesh
+3. Aluminium Sliding Doors & Gates 
+4. Aluminium Folding Doors & Gates 
+5. Aluminium Motorized Doors & Gates 
+6. Aluminium Single Doors & Gates 
+7. Aluminium Double Doors & Gates 
+8. Aluminium Hinged Doors & Gates  (Top Hung / Side Hung)
+9. Aluminium Doors & Gates  with Glass
+10. Aluminium Doors & Gates  with Grill
+11. Aluminium Doors & Gates  with Mesh
+12. Aluminium Top-Hung Sliding Doors & Gates 
+13. Aluminium Multi-Fold Doors & Gates 
+14. Aluminium Bathroom Doors & Gates 
+15. Aluminium Bathroom Doors & Gates  with Frosted Glass
 16. Aluminium Shop Front System
 
 ### File Structure
@@ -54,7 +54,7 @@ This is a modern, SEO-optimized product catalogue for aluminium gates and doors 
 4. Maintain the naming convention: image1.jpg, image2.jpg, image3.jpg
 
 ### SEO Benefits
-- **Page Title**: "Aluminium Gates & Doors in Bhiwadi | Premium Quality Gates Doors with ACP Sheet, Glass, Mesh"
+- **Page Title**: "Aluminium Doors & Gates  in Bhiwadi | Premium Quality Gates Doors with ACP Sheet, Glass, Mesh"
 - **Meta Description**: Optimized for local search with location keywords
 - **Structured Data**: Product catalogue schema for rich snippets
 - **FAQ Schema**: Voice search optimization
